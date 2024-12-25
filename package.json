@@ -1,5 +1,14 @@
-"scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start"
+{
+  "name": "billing-computer",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "12.x",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
 }
